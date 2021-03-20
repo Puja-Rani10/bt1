@@ -1,0 +1,24 @@
+.box2{
+	width: 200px;
+	height: 200px;
+	background-color: #cdcdcdcd;
+}
+.s-p{
+	margin-top: 10px;
+
+}
+.f-c{
+	background-color: skyblue;
+	border: 1px solid red;
+}
+.f-i{
+	background-color: #cdcdcdcd;
+	border: 1px solid red;
+}
+.f-i p{
+	background-color: #cdcdcdcd;
+	border: 1px solid red;
+}
+.f-o{
+	background-color: #dbdde0;
+}
